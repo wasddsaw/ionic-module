@@ -1,9 +1,7 @@
 # ionic-module
 Hybrid Mobile Application Framework
 
-INTRODUCTION
-Single code-base, Multi-Platform
 
 By
-Abdul Qayyum Bin Ishak
+Abdul Qayyum Bin Ishak <br>
 Mohammad Ashraf Bin Jefrizin
