@@ -1,7 +1,6 @@
 # ionic-module
-Hybrid Mobile Application Framework
+<i>Hybrid Mobile Application Framework</i>
 
-
-By
-Abdul Qayyum Bin Ishak <br>
-Mohammad Ashraf Bin Jefrizin
+By<br>
+<p>Abdul Qayyum Bin Ishak</p>
+<p>Mohammad Ashraf Bin Jefrizin</p>
